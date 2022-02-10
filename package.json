@@ -46,7 +46,7 @@
     "install-peers": "^1.0.3",
     "jest-cli": "^25.1.0",
     "lint": "^0.7.0",
-    "node-sass": "4.13.1",
+    "node-sass": "7.0.0",
     "normalize.css": "^8.0.1",
     "numeral": "^2.0.6",
     "package.json": "^2.0.1",
